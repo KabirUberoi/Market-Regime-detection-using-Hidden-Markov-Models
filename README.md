@@ -1,6 +1,6 @@
 # Hidden Markov Model for Market Regimes
 
-This repository contains the implementation of a Hidden Markov Model (HMM) to detect market regimes. The objective is to classify financial market regimes (Bullish or Bearish) based on asset return data.
+This repository contains the implementation of a Hidden Markov Model (HMM) to detect market regimes as per the second assignment for the course MTL106 : Probability and Stochastic Processes. The objective is to classify financial market regimes (Bullish or Bearish) based on asset return data.
 
 ## Problem Overview
 
