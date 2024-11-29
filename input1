@@ -1,0 +1,48 @@
+0.90543976 0.094560242 0.75977005 0.24022995
+0.53913694 0.46086306
+20
+-1.7562903
+-1.7843904
+-2.034451
+0.56933514
+0.50674787
+0.85141953
+0.47466592
+0.52591331
+0.25152785
+0.53283645
+0.3397161
+0.5146282
+0.36586846
+0.4238187
+0.33007451
+0.56338501
+0.78642763
+0.4857248
+0.47326381
+0.74958416
+
+# #res = ['Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bull', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bear', 'Bull', 'Bull', 'Bull', 'Bull']
+
+# output
+
+# Bear
+# Bear
+# Bear
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
+# Bull
